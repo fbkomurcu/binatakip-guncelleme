@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/fbkomurcu/binatakip-guncelleme/releases/download/v1.1.0/BinaTakip-v1.1.0.apk",
-  "notes": "Yeni sekmeler: Planlı Kesintiler (İZSU), Haber Takip, Mevzuat Takip (Resmî Gazete). Excel şablonları ve doğrudan Excel yükleme. Acil mesaj tanıma geliştirildi. Uygulama içi güncelleme bildirimi. İmza yazısı sadeleştirildi.",
-  "tarih": "2026-10-07"
+    "versionCode":  15,
+    "versionName":  "1.2.0",
+    "apkUrl":  "https://github.com/fbkomurcu/binatakip-guncelleme/releases/download/v1.2.0/BinaTakip-v1.2.0.apk",
+    "notes":  "WhatsApp mesajları artık telefonda akıllı sınıflandırılıyor: yazım hatalarını anlar, 11 kategori, iş mesajlarında bildirim yok, yalnız acilde alarm. Yanlış kategoriye uzun basıp düzeltebilirsiniz; uygulama öğrenir.",
+    "tarih":  "2026-10-07"
 }
