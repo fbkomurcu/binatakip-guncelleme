@@ -1,7 +1,7 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.4.0",
-    "apkUrl":  "https://github.com/fbkomurcu/binatakip-guncelleme/releases/download/v1.4.0/BinaTakip-v1.4.0.apk",
-    "notes":  "Haber ve Mevzuat yenilendi: yalnızca site/apartman yönetimi haberleri, aynı olay tek kartta (kaç kaynakta olduğu ve kaynak listesi), Gemini açıksa tek cümlelik özet. Mevzuat\u0027a İZSU duyuruları ve su tarifesi değişiklikleri eklendi. Yenileme artık hızlı.",
+    "versionCode":  18,
+    "versionName":  "1.5.0",
+    "apkUrl":  "https://github.com/fbkomurcu/binatakip-guncelleme/releases/download/v1.5.0/BinaTakip-v1.5.0.apk",
+    "notes":  "Yeni sekme: Endeks Okuma. Merkezi sayaçlı binalarda daire su/doğalgaz sayaçlarını telefonda okuyun; negatif ve yüksek tüketim uyarıları, sayaç değişti/okunamadı işaretleri, Excel dosyası yöneticinin WhatsApp sohbetinde ekli açılır. İnternet gerekmez.",
     "tarih":  "2026-10-07"
 }
