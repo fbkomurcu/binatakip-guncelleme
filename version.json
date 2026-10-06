@@ -1,7 +1,7 @@
 {
-    "versionCode":  15,
-    "versionName":  "1.2.0",
-    "apkUrl":  "https://github.com/fbkomurcu/binatakip-guncelleme/releases/download/v1.2.0/BinaTakip-v1.2.0.apk",
-    "notes":  "WhatsApp mesajları artık telefonda akıllı sınıflandırılıyor: yazım hatalarını anlar, 11 kategori, iş mesajlarında bildirim yok, yalnız acilde alarm. Yanlış kategoriye uzun basıp düzeltebilirsiniz; uygulama öğrenir.",
+    "versionCode":  16,
+    "versionName":  "1.3.0",
+    "apkUrl":  "https://github.com/fbkomurcu/binatakip-guncelleme/releases/download/v1.3.0/BinaTakip-v1.3.0.apk",
+    "notes":  "İsteğe bağlı yapay zekâ: Ayarlar → Yapay Zekâ\u0027dan kendi ücretsiz Gemini anahtarınızı girerek WhatsApp mesajlarını ikinci kez kontrol ettirebilirsiniz. Anahtar telefonda şifreli durur. Haber ve Mevzuat listeleri sıfırlandı.",
     "tarih":  "2026-10-07"
 }
