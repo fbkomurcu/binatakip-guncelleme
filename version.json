@@ -1,7 +1,7 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.3.0",
-    "apkUrl":  "https://github.com/fbkomurcu/binatakip-guncelleme/releases/download/v1.3.0/BinaTakip-v1.3.0.apk",
-    "notes":  "İsteğe bağlı yapay zekâ: Ayarlar → Yapay Zekâ\u0027dan kendi ücretsiz Gemini anahtarınızı girerek WhatsApp mesajlarını ikinci kez kontrol ettirebilirsiniz. Anahtar telefonda şifreli durur. Haber ve Mevzuat listeleri sıfırlandı.",
+    "versionCode":  17,
+    "versionName":  "1.4.0",
+    "apkUrl":  "https://github.com/fbkomurcu/binatakip-guncelleme/releases/download/v1.4.0/BinaTakip-v1.4.0.apk",
+    "notes":  "Haber ve Mevzuat yenilendi: yalnızca site/apartman yönetimi haberleri, aynı olay tek kartta (kaç kaynakta olduğu ve kaynak listesi), Gemini açıksa tek cümlelik özet. Mevzuat\u0027a İZSU duyuruları ve su tarifesi değişiklikleri eklendi. Yenileme artık hızlı.",
     "tarih":  "2026-10-07"
 }
